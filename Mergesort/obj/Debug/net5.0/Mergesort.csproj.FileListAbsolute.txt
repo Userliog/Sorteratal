@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Ny mapp\Mergesort\obj\Debug\net5.0\Mergesort.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ny mapp\Mergesort\obj\Debug\net5.0\Mergesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Ny mapp\Mergesort\obj\Debug\net5.0\Mergesort.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Ny mapp\Mergesort\obj\Debug\net5.0\Mergesort.AssemblyInfo.cs
+C:\Users\Admin\Documents\Ny mapp\Mergesort\obj\Debug\net5.0\Mergesort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ny mapp\Mergesort\bin\Debug\net5.0\Mergesort.exe
+C:\Users\Admin\Documents\Ny mapp\Mergesort\bin\Debug\net5.0\Mergesort.deps.json
+C:\Users\Admin\Documents\Ny mapp\Mergesort\bin\Debug\net5.0\Mergesort.runtimeconfig.json
+C:\Users\Admin\Documents\Ny mapp\Mergesort\bin\Debug\net5.0\Mergesort.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Ny mapp\Mergesort\bin\Debug\net5.0\Mergesort.dll
+C:\Users\Admin\Documents\Ny mapp\Mergesort\bin\Debug\net5.0\ref\Mergesort.dll
+C:\Users\Admin\Documents\Ny mapp\Mergesort\bin\Debug\net5.0\Mergesort.pdb
+C:\Users\Admin\Documents\Ny mapp\Mergesort\obj\Debug\net5.0\Mergesort.dll
+C:\Users\Admin\Documents\Ny mapp\Mergesort\obj\Debug\net5.0\ref\Mergesort.dll
+C:\Users\Admin\Documents\Ny mapp\Mergesort\obj\Debug\net5.0\Mergesort.pdb
+C:\Users\Admin\Documents\Ny mapp\Mergesort\obj\Debug\net5.0\Mergesort.genruntimeconfig.cache

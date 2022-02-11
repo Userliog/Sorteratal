@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\bin\Debug\net5.0\Insertionsort.exe
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\bin\Debug\net5.0\Insertionsort.deps.json
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\bin\Debug\net5.0\Insertionsort.runtimeconfig.json
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\bin\Debug\net5.0\Insertionsort.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\bin\Debug\net5.0\Insertionsort.dll
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\bin\Debug\net5.0\ref\Insertionsort.dll
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\bin\Debug\net5.0\Insertionsort.pdb
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\obj\Debug\net5.0\Insertionsort.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\obj\Debug\net5.0\Insertionsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\obj\Debug\net5.0\Insertionsort.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\obj\Debug\net5.0\Insertionsort.AssemblyInfo.cs
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\obj\Debug\net5.0\Insertionsort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\obj\Debug\net5.0\Insertionsort.dll
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\obj\Debug\net5.0\ref\Insertionsort.dll
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\obj\Debug\net5.0\Insertionsort.pdb
+C:\Users\Admin\Documents\Ny mapp\Insertionsort\obj\Debug\net5.0\Insertionsort.genruntimeconfig.cache
