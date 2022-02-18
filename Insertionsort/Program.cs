@@ -8,7 +8,7 @@ namespace Bubble_sort
     {
         static void Main(string[] args)
         {
-            int length = 10000;
+            int length = 8000;
             Console.WriteLine("insertion sort w. "+length);
             
             List<int> List = new List<int>();
