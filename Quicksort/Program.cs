@@ -53,16 +53,15 @@ namespace Quicksort
 
         public static void Main(string[] args)
         {
-            int length = 10000;
+            int length = 8000;
             Console.WriteLine("Quicksort w. " + length);
-            Stopwatch stopwatch = Stopwatch.StartNew();
-
             int[] List = new int[length];
             Random rnd = new Random();
             for (int s = 0; s < length; s++)
             {
                 List[s] = rnd.Next(100000);
             }
+            Stopwatch stopwatch = Stopwatch.StartNew();
 
             Quicksort(List, 0, length-1);
             stopwatch.Stop();
