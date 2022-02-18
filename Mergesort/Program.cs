@@ -53,17 +53,15 @@ namespace Mergesort
 
         public static void Main(string[] args)
         {
-            int length = 10000;
-            Console.WriteLine("insertion sort w. " + length);
-            Stopwatch stopwatch = Stopwatch.StartNew();
-
+            int length = 8000;
+            Console.WriteLine("Mergesort w. " + length);
             int[] List = new int[length];
             Random rnd = new Random();
             for (int s = 0; s < length; s++)
             {
                 List[s] = rnd.Next(100000);
             }
-
+            Stopwatch stopwatch = Stopwatch.StartNew();
             MergeSort(List, 0, length-1);
             stopwatch.Stop();
             
