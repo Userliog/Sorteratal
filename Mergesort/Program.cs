@@ -4,57 +4,74 @@ using System.Diagnostics;
 
 namespace Mergesort
 {
-    class Program
+    public class Program
     {
-        static public void Merge(List A, int b, int c, int d)
-        {
-            int y, z;
-            int l1 = c-b+1;
-            int r1 = d-b;
-            List[] L = new List[l1];
-            List[] R = new List[r1];
-            for (int i=0; y<r1; y++)
-            {
-                L[i] = A[b+i];
+        static public void Merge(int[] List, int left, int middle, int right) {
+         int i, j;
+         int nleft = middle - left + 1;
+         int nright = right - middle;
+         int[] L = new int[nleft];
+         int[] R = new int[nright];
+         for (i = 0; i < nleft; i++) {
+            L[i] = List[left + i];
+         }       
+         for (j = 0; j < nright; j++) {
+            R[j] = List[middle + 1 + j];
+         }
+         i = 0;
+         j = 0;
+         int k = left;
+         while (i < nleft && j < nright) {
+            if (L[i] <= R[j]) {
+               List[k] = L[i];
+               i++;
+            } else {
+               List[k] = R[j];
+               j++;
             }
-            for (y = 0; y < r1; y++)
-            {
-                R[y] = A[c+1+y];
-            }
-        }
-        static public void Merge_sort(List A, int b, int c)
+            k++;
+         } 
+         while (i < nleft){
+            List[k] = L[i];
+            i++;
+            k++;
+         }
+         while (j < nright){
+            List[k] = R[j];
+            j++;
+            k++;
+         }
+      }
+      static public void MergeSort(int[] List, int left, int right) {
+         if (left < right) {
+            int middle = (left + right) / 2;
+            MergeSort(List, left, middle);
+            MergeSort(List, middle + 1, right);
+            Merge(List, left, middle, right);
+         }
+      }
+
+        public static void Main(string[] args)
         {
-            if (b<c)
-            {
-                int d= (b+c)/2;
-                Merge_sort(A, b, d);
-                Merge_sort(A, d+1, c);
-                Merge(A, b, d, c);
-            }
-        }
-        
-        static void Main(string[] args)
-        {
-            int length = 1000;
-            Console.WriteLine("Merge sort w. "+length);
+            int length = 10000;
+            Console.WriteLine("insertion sort w. " + length);
             Stopwatch stopwatch = Stopwatch.StartNew();
 
-            List<int> A = new List<int>();
-            int n =length;
-            
+            int[] List = new int[length];
+            Random rnd = new Random();
             for (int s = 0; s < length; s++)
             {
-               Random rnd = new Random();
-                A.Add(rnd.Next()); 
+                List[s] = rnd.Next(100000);
             }
 
-
-
-            foreach (int b in A)
+            MergeSort(List, 0, length-1);
+            stopwatch.Stop();
+            
+            for(int i = 0; i < length; i++)
             {
-                Console.WriteLine(b);   
+                Console.WriteLine(List[i]);
             }
-           
+            Console.WriteLine(stopwatch.ElapsedMilliseconds + " ms");
         }
     }
 }

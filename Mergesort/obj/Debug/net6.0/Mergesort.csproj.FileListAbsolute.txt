@@ -1,0 +1,15 @@
+C:\Users\magnu\source\repos\Mergesort\bin\Debug\net6.0\Mergesort.exe
+C:\Users\magnu\source\repos\Mergesort\bin\Debug\net6.0\Mergesort.deps.json
+C:\Users\magnu\source\repos\Mergesort\bin\Debug\net6.0\Mergesort.runtimeconfig.json
+C:\Users\magnu\source\repos\Mergesort\bin\Debug\net6.0\Mergesort.dll
+C:\Users\magnu\source\repos\Mergesort\bin\Debug\net6.0\Mergesort.pdb
+C:\Users\magnu\source\repos\Mergesort\obj\Debug\net6.0\Mergesort.csproj.AssemblyReference.cache
+C:\Users\magnu\source\repos\Mergesort\obj\Debug\net6.0\Mergesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magnu\source\repos\Mergesort\obj\Debug\net6.0\Mergesort.AssemblyInfoInputs.cache
+C:\Users\magnu\source\repos\Mergesort\obj\Debug\net6.0\Mergesort.AssemblyInfo.cs
+C:\Users\magnu\source\repos\Mergesort\obj\Debug\net6.0\Mergesort.csproj.CoreCompileInputs.cache
+C:\Users\magnu\source\repos\Mergesort\obj\Debug\net6.0\Mergesort.dll
+C:\Users\magnu\source\repos\Mergesort\obj\Debug\net6.0\refint\Mergesort.dll
+C:\Users\magnu\source\repos\Mergesort\obj\Debug\net6.0\Mergesort.pdb
+C:\Users\magnu\source\repos\Mergesort\obj\Debug\net6.0\Mergesort.genruntimeconfig.cache
+C:\Users\magnu\source\repos\Mergesort\obj\Debug\net6.0\ref\Mergesort.dll
