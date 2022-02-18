@@ -10,7 +10,7 @@ namespace Bubble_sort
         {
             List<int> list = new List<int>();
 
-            int length = 1000;
+            int length = 8000;
             Console.WriteLine("Bubblesort w."+length);
             for (int i = 0; i < length; i++)
             {
