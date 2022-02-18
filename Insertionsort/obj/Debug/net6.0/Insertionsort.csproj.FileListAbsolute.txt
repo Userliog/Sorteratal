@@ -1,0 +1,15 @@
+C:\Users\magnu\source\repos\Insertionsort\bin\Debug\net6.0\Insertionsort.exe
+C:\Users\magnu\source\repos\Insertionsort\bin\Debug\net6.0\Insertionsort.deps.json
+C:\Users\magnu\source\repos\Insertionsort\bin\Debug\net6.0\Insertionsort.runtimeconfig.json
+C:\Users\magnu\source\repos\Insertionsort\bin\Debug\net6.0\Insertionsort.dll
+C:\Users\magnu\source\repos\Insertionsort\bin\Debug\net6.0\Insertionsort.pdb
+C:\Users\magnu\source\repos\Insertionsort\obj\Debug\net6.0\Insertionsort.csproj.AssemblyReference.cache
+C:\Users\magnu\source\repos\Insertionsort\obj\Debug\net6.0\Insertionsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magnu\source\repos\Insertionsort\obj\Debug\net6.0\Insertionsort.AssemblyInfoInputs.cache
+C:\Users\magnu\source\repos\Insertionsort\obj\Debug\net6.0\Insertionsort.AssemblyInfo.cs
+C:\Users\magnu\source\repos\Insertionsort\obj\Debug\net6.0\Insertionsort.csproj.CoreCompileInputs.cache
+C:\Users\magnu\source\repos\Insertionsort\obj\Debug\net6.0\Insertionsort.dll
+C:\Users\magnu\source\repos\Insertionsort\obj\Debug\net6.0\refint\Insertionsort.dll
+C:\Users\magnu\source\repos\Insertionsort\obj\Debug\net6.0\Insertionsort.pdb
+C:\Users\magnu\source\repos\Insertionsort\obj\Debug\net6.0\Insertionsort.genruntimeconfig.cache
+C:\Users\magnu\source\repos\Insertionsort\obj\Debug\net6.0\ref\Insertionsort.dll

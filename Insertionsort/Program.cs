@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 
@@ -6,39 +6,33 @@ namespace Bubble_sort
 {
     class Program
     {
-        public static void Swap(ref int a, ref int b){
-            int Temp=a;
-            a=b;
-            b=Temp;
-        }
-
         static void Main(string[] args)
         {
-            int length = 1000;
+            int length = 10000;
             Console.WriteLine("insertion sort w. "+length);
-            Stopwatch stopwatch = Stopwatch.StartNew();
-
-            List<int> A = new List<int>();
             
-            int n =length, j, val, flag;
+            List<int> List = new List<int>();
+            
+            int n =length, j, temp, flag;
             
             for (int s = 0; s < length; s++)
             {
                Random rnd = new Random();
-                A.Add(rnd.Next()); 
+                List.Add(rnd.Next(10000)); 
             }
+            Stopwatch stopwatch = Stopwatch.StartNew();
 
             for (int i = 0; i < n; i++)
             {
-                val=A[i];
+                temp=List[i];
                 flag=0;
                 for (j =i-1;j >= 0 && flag != 1; )
                 {
-                    if (val < A[j])
+                    if (temp < List[j])
                     {
-                        A[j+1] = A[j];
+                        List[j+1] = List[j];
                         j--;
-                        A[j+1] = val;
+                        List[j+1] = temp;
                     }
                     else flag =1;
                 }
